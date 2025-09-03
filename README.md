@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasbiazif
-- Tableu = https://public.tableau.com/app/profile/hasbi.azif.faisya4137/viz/latihandataUSflightdelay/USFlightDelay
+- Tableu = https://public.tableau.com/app/profile/hasbi.azif.faisya4137/vizzes
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Machine Learning
 
