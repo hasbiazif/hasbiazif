@@ -44,6 +44,7 @@ I love turning messy datasets into structured insights and building tools that m
 
 **Data & Cloud**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Navicat](https://img.shields.io/badge/Navicat-555555?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 **Visualization & Reporting**  
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-555555?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
